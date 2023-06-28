@@ -201,7 +201,7 @@ echo htmlentities($_SESSION['errmsg']="");
 <!-- create a new account -->
 <div class="col-md-6 col-sm-6 create-new-account">
 	<h4 class="checkout-subtitle">Create A New Account</h4>
-	<p class="text title-tag-line">Create your Own Shopping account.</p>
+	<p class="text title-tag-line">Create your Own Shopping Account.</p>
 	<form class="register-form outer-top-xs" role="form" method="post" name="register" onSubmit="return valid();">
 <div class="form-group">
 	    	<label class="info-title" for="fullname">Full Name <span>*</span></label>

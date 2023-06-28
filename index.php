@@ -210,7 +210,7 @@ while ($row=mysqli_fetch_array($ret))
 			<div class="product-price">	
 				<span class="price">
 					RM<?php echo htmlentities($row['productPrice']);?>			</span>
-										     <span class="price-before-discount">Rs.<?php echo htmlentities($row['productPriceBeforeDiscount']);?>	</span>
+										     <span class="price-before-discount">RM<?php echo htmlentities($row['productPriceBeforeDiscount']);?>	</span>
 									
 			</div><!-- /.product-price -->
 			

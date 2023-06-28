@@ -32,7 +32,7 @@ window.print();
       
     </tr>
     <tr height="30">
-      <td  class="fontkink1"><b>order Id:</b></td>
+      <td  class="fontkink1"><b>Order Id:</b></td>
       <td  class="fontkink"><?php echo $oid;?></td>
     </tr>
     <?php 
@@ -79,7 +79,7 @@ $st='Delivered';
      if($st==$currrentSt)
      { ?>
    <tr><td colspan="2"><b>
-      Product Delivered successfully </b></td>
+      Product Delivered Successfully </b></td>
    <?php } 
  
   ?>

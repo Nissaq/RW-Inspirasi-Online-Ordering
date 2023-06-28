@@ -170,10 +170,10 @@ while ($rws=mysqli_fetch_array($ret)) {
 
 							<div class="product-price">	
 								<span class="price">
-									Rs. <?php echo htmlentities($rws['productPrice']);?>.00
+									RM <?php echo htmlentities($rws['productPrice']);?>.00
 								</span>
 									
-							    <span class="price-before-discount">Rs.<?php echo htmlentities($row['productPriceBeforeDiscount']);?></span>					
+							    <span class="price-before-discount">RM<?php echo htmlentities($row['productPriceBeforeDiscount']);?></span>					
 							
 							</div><!-- /.product-price -->
 							
@@ -331,7 +331,7 @@ $num=mysqli_num_rows($rt);
 								<div class="row">
 									<div class="col-sm-3">
 										<div class="stock-box">
-											<span class="label">Product Brand :</span>
+											<span class="label">Product Type :</span>
 										</div>	
 									</div>
 									<div class="col-sm-9">
@@ -373,8 +373,8 @@ $num=mysqli_num_rows($rt);
 
 									<div class="col-sm-6">
 										<div class="price-box">
-											<span class="price">Rs. <?php echo htmlentities($row['productPrice']);?></span>
-											<span class="price-strike">Rs.<?php echo htmlentities($row['productPriceBeforeDiscount']);?></span>
+											<span class="price">RM <?php echo htmlentities($row['productPrice']);?></span>
+											<span class="price-strike">RM<?php echo htmlentities($row['productPriceBeforeDiscount']);?></span>
 										</div>
 									</div>
 
@@ -403,7 +403,7 @@ $num=mysqli_num_rows($rt);
 								<div class="row">
 									
 									<div class="col-sm-2">
-										<span class="label">Qty :</span>
+										<span class="label">Quantity :</span>
 									</div>
 									
 									<div class="col-sm-2">
@@ -486,7 +486,7 @@ while($rvw=mysqli_fetch_array($qry))
 													<div class="text">"<?php echo htmlentities($rvw['review']);?>"</div>
 													<div class="text"><b>Quality :</b>  <?php echo htmlentities($rvw['quality']);?> Star</div>
 													<div class="text"><b>Price :</b>  <?php echo htmlentities($rvw['price']);?> Star</div>
-													<div class="text"><b>value :</b>  <?php echo htmlentities($rvw['value']);?> Star</div>
+													<div class="text"><b>Value :</b>  <?php echo htmlentities($rvw['value']);?> Star</div>
                                                 <div class="author m-t-15"><i class="fa fa-pencil-square-o"></i> <span class="name"><?php echo htmlentities($rvw['name']);?></span></div>													</div>
 											
 											</div>
@@ -589,7 +589,7 @@ while($rvw=mysqli_fetch_array($qry))
 			$subcid=$row['subCategory']; } ?>
 				<!-- ============================================== UPSELL PRODUCTS ============================================== -->
 <section class="section featured-product wow fadeInUp">
-	<h3 class="section-title">Realted Products </h3>
+	<h3 class="section-title">Related Products </h3>
 	<div class="owl-carousel home-owl-carousel upsell-product custom-carousel owl-theme outer-top-xs">
 	   
 		<?php 
@@ -619,8 +619,8 @@ while($rw=mysqli_fetch_array($qry))
 
 			<div class="product-price">	
 				<span class="price">
-					Rs.<?php echo htmlentities($rw['productPrice']);?>			</span>
-										     <span class="price-before-discount">Rs.
+					RM<?php echo htmlentities($rw['productPrice']);?>			</span>
+										     <span class="price-before-discount">RM
 										     <?php echo htmlentities($rw['productPriceBeforeDiscount']);?></span>
 									
 			</div><!-- /.product-price -->

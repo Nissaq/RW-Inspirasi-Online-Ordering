@@ -54,7 +54,7 @@ include('includes/config.php');
 		<div class="breadcrumb-inner">
 			<ul class="list-inline list-unstyled">
 				<li><a href="home.html">Home</a></li>
-				<li class='active'>Track your orders</li>
+				<li class='active'>Track Your Orders</li>
 			</ul>
 		</div><!-- /.breadcrumb-inner -->
 	</div><!-- /.container -->
