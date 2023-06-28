@@ -9,14 +9,14 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>Shopping Portal</h3>
+<h3>RW Inspirasi Online Retailing</h3>
             </a>
         </div><!-- /.logo -->
     
     </div><!-- /.footer-logo -->
 
      <div class="module-body m-t-20">
-        <p class="about-us"> Nam libero tempore, cum soluta nobis est ses  eligendi optio cumque cum soluta nobis est ses  eligendi optio cumque.</p>
+        <p class="about-us"> We Serve Best Service, Quality and Customer Perfection.</p>
     
         <div class="social-icons">
             
@@ -43,9 +43,9 @@
 		<div class="table-responsive">
 			<table class="table">
 				<tbody>
-					<tr><td>Monday-Friday:</td><td class="pull-right">08.00 To 18.00</td></tr>
-					<tr><td>Saturday:</td><td class="pull-right">09.00 To 20.00</td></tr>
-					<tr><td>Sunday:</td><td class="pull-right">10.00 To 20.00</td></tr>
+					<tr><td>Monday-Friday:</td><td class="pull-right">08:00 - 18:00</td></tr>
+					<tr><td>Saturday:</td><td class="pull-right">09:00 - 20:00</td></tr>
+					<tr><td>Sunday:</td><td class="pull-right">10:00 - 20:00</td></tr>
 				</tbody>
 			</table>
 		</div><!-- /.table-responsive -->
@@ -70,7 +70,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Selangor, Malaysia</p>
                 </div>
             </li>
 
@@ -82,7 +82,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(011) 000000000000<br>(011) 000000000000</p>
+                    <p>012-3542945<br>012-8183172</p>
                 </div>
             </li>
 
@@ -94,7 +94,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="#">info@phpgurukul.com</a></span>
+                    <span><a href="#">rwinspirasi@gmail.com</a></span>
                 </div>
             </li>
               
