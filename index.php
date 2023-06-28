@@ -137,7 +137,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 							<h4 class="info-box-heading orange">Free Shipping</h4>
 						</div>
 					</div>
-					<h6 class="text">Free Shipping on order over RM50.00</h6>	
+					<h6 class="text">Order Over RM 50.00</h6>	
 				</div>
 			</div><!-- .col -->
 
