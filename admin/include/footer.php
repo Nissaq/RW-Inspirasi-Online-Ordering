@@ -2,6 +2,6 @@
 		<div class="container">
 			 
 
-			<b class="copyright">&copy; 2017 Shopping Portal </b> All rights reserved.
+			<b class="copyright">&copy; 2023 RW Inspirasi Online Retailing </b> All rights reserved.
 		</div>
 	</div>
