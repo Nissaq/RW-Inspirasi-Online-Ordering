@@ -9,7 +9,7 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>RW Inspirasi</h3>
+<h3>RW Inspirasi Online Retailing</h3>
             </a>
         </div><!-- /.logo -->
     

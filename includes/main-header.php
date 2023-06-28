@@ -20,7 +20,7 @@
 <div class="logo">
 	<a href="index.php">
 		
-		<h2>RW Inspirasi Online Retailing</h2>
+		<h2>RW Inspirasi</h2>
 
 	</a>
 </div>		
