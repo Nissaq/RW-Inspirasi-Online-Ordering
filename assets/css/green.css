@@ -53,11 +53,11 @@ a {
   background: #8080ff;
 }
 .cnt-home .header-style-1 .header-nav .navbar .navbar-nav > li.active {
-  background: #84b943;
+  background: #8080ff;
 }
 .cnt-home .header-style-1 .header-nav .navbar .navbar-nav > li > a:hover,
 .cnt-home .header-style-1 .header-nav .navbar .navbar-nav > li > a:focus {
-  background: #84b943;
+  background: #8080ff;
 }
 .cnt-home .header-style-1.header-style-2 .header-nav .navbar .navbar-nav > li.active,
 .cnt-homepage .header-style-1.header-style-2 .header-nav .navbar .navbar-nav > li.active {
@@ -105,7 +105,7 @@ a {
 }
 .product .cart .action ul li.add-cart-button .btn-primary.icon:hover,
 .product .cart .action ul li.add-cart-button .btn-primary.icon:focus {
-  background: #84b943;
+  background: #8080ff;
 }
 .tag.sale {
   background: #8080ff;
@@ -155,7 +155,7 @@ a {
 .custom-carousel .owl-controls .owl-next:hover,
 .custom-carousel .owl-controls .owl-prev:focus,
 .custom-carousel .owl-controls .owl-next:focus {
-  background: #84b943;
+  background: #8080ff;
 }
 .yamm .dropdown-menu .title:hover,
 .yamm .dropdown-menu .title:focus {
@@ -166,11 +166,11 @@ a {
   color: #8080ff;
 }
 .breadcrumb ul li.active {
-  color: #84b943;
+  color: #8080ff;
 }
 .breadcrumb ul a:hover,
 .breadcrumb ul a:focus {
-  color: #84b943;
+  color: #8080ff;
 }
 .filters-container .nav-tabs.nav-tab-box li.active a .icon {
   color: #8080ff;
@@ -258,7 +258,7 @@ a {
 }
 #owl-main:hover .owl-prev:hover,
 #owl-main:hover .owl-next:hover {
-  background: #84b943;
+  background: #8080ff;
 }
 #owl-main .owl-controls .owl-pagination .owl-page:active span,
 #owl-main .owl-controls .owl-pagination .owl-page:hover span {
@@ -316,14 +316,14 @@ a {
 .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs > li.active > a,
 .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs > li.active > a:hover,
 .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs > li.active > a:focus {
-  color: #84b943;
+  color: #8080ff;
 }
 .blog-page .blog-post .social-media a:hover,
 .blog-page .blog-post .social-media a:focus {
   background-color: #8080ff;
 }
 .blog-page .sidebar .sidebar-module-container .search-area .search-button:after {
-  color: #84b943;
+  color: #8080ff;
 }
 .blog-page .sidebar .sidebar-module-container .sidebar-widget .blog-post h4 a:hover,
 .blog-page .sidebar .sidebar-module-container .sidebar-widget .blog-post h4 a:focus {
@@ -360,14 +360,14 @@ a {
   color: #8080ff;
 }
 .shopping-cart .shopping-cart-table table tbody tr .cart-product-name-info .cart-product-info span span {
-  color: #84b943;
+  color: #8080ff;
 }
 .shopping-cart .shopping-cart-table table tbody tr .cart-product-edit a:hover,
 .shopping-cart .shopping-cart-table table tbody tr .cart-product-edit a:focus {
   color: #8080ff;
 }
 .shopping-cart .cart-shopping-total table thead tr th .cart-grand-total {
-  color: #84b943;
+  color: #8080ff;
 }
 .shopping-cart-table table tbody tr td .quant-input .arrows .arrow:hover,
 .shopping-cart-table table tbody tr td .quant-input .arrows .arrow:focus {
