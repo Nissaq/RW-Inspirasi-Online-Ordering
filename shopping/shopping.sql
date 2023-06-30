@@ -196,8 +196,6 @@ CREATE TABLE `subcategory` (
 --
 
 INSERT INTO `subcategory` (`id`, `categoryid`, `subcategory`, `creationDate`, `updationDate`) VALUES
-(13, 5, 'Epoxy Acrylic', '2023-06-28 16:50:42', NULL),
-(14, 5, 'Canvas Fabric', '2023-06-28 17:02:35', NULL),
 (15, 7, 'Towel', '2023-06-28 17:53:42', NULL),
 (16, 7, 'Button Badge', '2023-06-28 17:53:57', NULL),
 (17, 7, 'Name Tag', '2023-06-28 17:55:01', NULL),
