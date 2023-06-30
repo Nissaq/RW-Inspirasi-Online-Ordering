@@ -904,7 +904,7 @@ li.dropdown.current-user .dropdown-menu li a {
 	border-style: none;
 }
 .panel-tools .btn-link {
-	color: #666666;
+	color: #000080;
 }
 .panel-tools .btn-link:hover {
 	color: #333333;
@@ -2186,7 +2186,7 @@ span.star:before {
 	letter-spacing: -1px;
 	margin: 0 0 15px;
 	padding: 0;
-	color: #666666;
+	color: #000080;
 }
 
 .page-header h1 small {
@@ -3081,7 +3081,7 @@ body.error-full-page {
 	text-transform: uppercase;
 }
 #inline-headerLeft h3 {
-	color: #666666;
+	color: #000080;
 	font-size: 24px;
 	line-height: 1.1em;
 	margin: 0.2em 0 0;
@@ -3094,7 +3094,7 @@ body.error-full-page {
 	margin-top: 20px;
 }
 #inline-headerRight div {
-	color: #666666;
+	color: #000080;
 	font-size: 16px;
 }
 #inline-columns {
@@ -3111,7 +3111,7 @@ body.error-full-page {
 	border: none;
 }
 #inline-columns blockquote:before {
-	color: #666666;
+	color: #000080;
 	content: "“";
 	font-size: 60px;
 	left: -40px;
@@ -3207,7 +3207,7 @@ div.timeline div.date_separator span {
 	margin-left: -100px;
 	border: 1px solid #BBBBBB;
 	background-color: #FFFFFF;
-	color: #666666;
+	color: #000080;
 }
 div.timeline div.spine {
 	border-radius: 2px 2px 2px 2px;
@@ -3913,7 +3913,7 @@ ul#countdown li p.timeRefDays, ul#countdown li p.timeRefHours, ul#countdown li p
 	margin: 2px 2px 0 0;
 }
 .fc-header-title h2 {
-	color: #666666;
+	color: #000080;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 200;
 	letter-spacing: -1px;
@@ -3926,14 +3926,14 @@ ul#countdown li p.timeRefDays, ul#countdown li p.timeRefHours, ul#countdown li p
 	background: #F5F5F5 !important;
 }
 .fc-button {
-	color: #666666 !important;
+	color: #000080 !important;
 }
 .fc-state-default {
 	background-color: #ffffff !important;
 	background-image: none !important;
-	border-color: #666666 !important;
+	border-color: #000080 !important;
 	box-shadow: none !important;
-	color: #666666;
+	color: #000080;
 	text-shadow: none !important;
 }
 .fc-state-down, .fc-state-active {
@@ -4024,7 +4024,7 @@ body.lock-screen .user-info {
 	width: 285px;
 }
 body.lock-screen .user-info h1 {
-	color: #666666;
+	color: #000080;
 	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
 	font-weight: 300;
@@ -4035,7 +4035,7 @@ body.lock-screen .user-info h1 i {
 	color: #cccccc;
 }
 body.lock-screen .user-info > span {
-	color: #666666;
+	color: #000080;
 	display: block;
 	font-size: 12px;
 	margin-bottom: 5px;
@@ -4262,7 +4262,7 @@ body.header-default .daterangepicker {
 	margin: 0;
 	padding-left: 65px;
 	font-weight: normal;
-	color: #666666;
+	color: #000080;
 	font-size: 18px;
 }
 .core-box .content {

@@ -170,7 +170,7 @@ div.nav-global li a,div.nav-global li a span {
 	background-position: right 100px;
 	background-repeat: no-repeat;
 	height: 32px;
-	color: #666666;
+	color: #000080;
 	text-decoration: none;
 	font: bold 16px 'trebuchet ms';
 	margin-right: 15px;
@@ -445,7 +445,7 @@ div.action-bottom a span.shadow {
 
 /* s4.2 - Home Left Quote */
 .callout-tan {
-	color: #666666;
+	color: #000080;
 }
 
 .callout-tan h1 {
@@ -738,7 +738,7 @@ div.empty div.nav-left-header-tab {
 	font-size: 12px;
 	font-weight: bold;
 	background-color: #ffffff;
-	color: #666666;
+	color: #000080;
 	border-top: 0px solid #7CA84E;
 	border-bottom: 1px solid #B0CB95;
 	border-left: 1px solid #97B973;
@@ -749,7 +749,7 @@ div.empty div.nav-left-header-tab {
 
 /* sX.0 -  Main Content */
 .main-content {
-	color: #666666;
+	color: #000080;
 	position: absolute;
 	right: 20px;
 	padding-top: 20px;
@@ -770,7 +770,7 @@ div.main-content div.main-content {
 }
 
 .main-content h2 {
-	color: #666666;
+	color: #000080;
 	font-size: 1.3em;
 	font-weight: normal;
 	margin: 10px 10px 5px 0px;
@@ -830,7 +830,7 @@ div.main-content li a {
 
 /* sX.0 - Footer */
 div.footer {
-	color: #666666;
+	color: #000080;
 	font-size: .85em;
 	font-weight: normal;
 	height: 18px;
@@ -845,13 +845,13 @@ div.footer {
 
 .footer li {
 	float: left;
-	border-right: 1px solid #666666;
+	border-right: 1px solid #000080;
 	padding: 0px 7px 0px 7px;
 	margin-top: 3px;
 }
 
 .footer a {
-	color: #666666;
+	color: #000080;
 	text-decoration: none;
 }
 
@@ -1173,7 +1173,7 @@ div.footerAddress {
 	position: absolute;
 	bottom: 30px;
 	left: 20px;
-	color: #666666;
+	color: #000080;
 	font-size: 11px;
 	display: none;
 }

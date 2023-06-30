@@ -79,7 +79,7 @@ pre .xmlDocTag {
 }
 
 pre .vhdl .typename { font-weight: bold; }
-pre .vhdl .string { color: #666666; }
+pre .vhdl .string { color: #000080; }
 pre .vhdl .literal { color: rgb(163, 21, 21); }
 pre .vhdl .attribute { color: #00B0E8; }
 

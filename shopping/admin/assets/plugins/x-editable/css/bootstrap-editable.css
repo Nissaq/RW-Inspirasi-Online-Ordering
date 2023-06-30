@@ -467,7 +467,7 @@ a.editable-click.editable-disabled:hover {
 .datepicker table tr td.selected:hover.active,
 .datepicker table tr td.selected.disabled.active,
 .datepicker table tr td.selected.disabled:hover.active {
-  background-color: #666666 \9;
+  background-color: #000080 \9;
 }
 .datepicker table tr td.active,
 .datepicker table tr td.active:hover,

@@ -16,7 +16,7 @@ body, .main-container, .footer, .main-navigation, ul.main-navigation-menu > li >
 }
 /**/
 .navbar-inverse .navbar-brand, .navbar-inverse .navbar-brand:hover, .navbar-inverse .nav > li > a {
-	color: #666666;
+	color: #000080;
 }
 .navbar-inverse .navbar-brand i, .navbar-inverse .navbar-brand:hover i {
 	color: #007AFF;
@@ -26,7 +26,7 @@ body, .main-container, .footer, .main-navigation, ul.main-navigation-menu > li >
 	color: #999999;
 }
 .navbar-inverse .nav > li.current-user > a {
-	color: #666666 !important;
+	color: #000080 !important;
 }
 .navbar-inverse .nav > li.current-user > a i {
 	display: inline-block;
